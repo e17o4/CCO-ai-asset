@@ -6,6 +6,10 @@ I was bored one day and started experimenting with map-making textures. If I cou
 
 These particular experiments came out pretty, so I'm releasing them here under **CC0 1.0 Universal**.
 
+EDIT:
+added some stained glass experiments to the collection.
+
+
 Why CC0?
 
 1. An AI generated the base images.
